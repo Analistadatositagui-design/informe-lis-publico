@@ -1,0 +1,9 @@
+# Nunca subir el informe en claro a este repositorio publico
+*-plano.html
+informe-directivo.html
+anexo/
+*.pdf
+.env
+.env.*
+credenciales*
+CREDENCIALES*
