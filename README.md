@@ -27,6 +27,16 @@ subió aquí.
 Se entrega **por un canal distinto** al del enlace. Si recibiste el enlace por correo,
 la clave llega por otra vía; nunca las dos juntas en el mismo mensaje.
 
+## Dos documentos, la misma clave
+
+| | |
+|---|---|
+| `index.html` | El informe completo |
+| `dashboard-adherencia.html` | Un tablero interactivo que se abre desde el informe |
+
+El tablero se abre con el botón que hay en la sección de Adherencia. Pide la clave otra vez porque es
+un documento cifrado aparte: es la misma.
+
 ## Qué contiene
 
 Resultados de las seis plataformas de LIS, con corte de datos al **13 de agosto de 2026,
@@ -35,7 +45,9 @@ como cobertura del universo operativo, calidad del dato y avance de la capa de i
 artificial.
 
 Cada fila con cifras se despliega para ver su respaldo: desglose, advertencias y la
-consulta que la produjo.
+consulta que la produjo. El tablero interactivo recorre los cinco indicadores con sus bandas de
+sensibilidad, el desglose por centro y por sede, y permite cambiar el criterio de medición para ver
+cuánto se mueve cada cifra.
 
 ## Aviso
 
